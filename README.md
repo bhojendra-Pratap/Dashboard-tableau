@@ -63,6 +63,6 @@ The goal of this project was to build a **visually appealing and interactive das
 
 Want to collaborate, or have feedback on the dashboard? Feel free to connect!
 
-- 💼 [LinkedIn](www.linkedin.com/in/bhojendra-pratap)
+- 💼 [LinkedIn – Bhojendra Pratap](https://www.linkedin.com/in/bhojendra-pratap)
 - ✉️ bhojendershing@gmail.com
 
