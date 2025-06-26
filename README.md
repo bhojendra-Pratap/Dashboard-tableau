@@ -48,12 +48,6 @@ The goal of this project was to build a **visually appealing and interactive das
 
 >  **Conclusion:** The dashboard enables faster and data-driven decision-making by consolidating important KPIs and trends in one place. It can serve as a valuable tool for stakeholders to monitor business health and strategize effectively.
 
----
-
-##  Preview
-
-<img width="1201" alt="Screenshot" src="https://github.com/user-attachments/assets/180013ce-5aae-4a5a-b705-d3889092b44a" />
-
 
 ---
 
@@ -69,6 +63,6 @@ The goal of this project was to build a **visually appealing and interactive das
 
 Want to collaborate, or have feedback on the dashboard? Feel free to connect!
 
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- ✉️ your.email@example.com
+- 💼 [LinkedIn](www.linkedin.com/in/bhojendra-pratap)
+- ✉️ bhojendershing@gmail.com
 
