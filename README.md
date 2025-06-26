@@ -46,7 +46,8 @@ The goal of this project was to build a **visually appealing and interactive das
 
 ## 🖼 Preview
 
-![Dashboard Preview](screenshot.png)
+<img width="1201" alt="Screenshot" src="https://github.com/user-attachments/assets/180013ce-5aae-4a5a-b705-d3889092b44a" />
+
 
 ---
 
